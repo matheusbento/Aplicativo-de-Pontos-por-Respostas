@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\UENP\4 Ano\Sistemas Distribuido\WEBSERVICE\Points\app\libs\ksoap2-android-assembly-3.6.2-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b457441023b25f0b6bae28c76be982a4e49a8666">
+        <dex dex="C:\UENP\4 Ano\Sistemas Distribuido\WEBSERVICE\Points\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.6.2-jar-with-dependencies_607e9d5a7a0aa41fde20c6e45a662241338e143c.jar" />
+    </item>
+
+</items>
